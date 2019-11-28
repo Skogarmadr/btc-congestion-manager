@@ -6,3 +6,4 @@
 /.crossbar/node.pid
 /logs
 .env.production
+.env.development
