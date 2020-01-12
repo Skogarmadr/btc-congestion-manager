@@ -1,0 +1,6 @@
+network:
+  version: 2
+  ethernets:
+    eth1:
+      addresses:
+        - 10.3.4.10/8
